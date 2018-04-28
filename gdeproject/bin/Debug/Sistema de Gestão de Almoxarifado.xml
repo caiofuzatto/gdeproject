@@ -1,0 +1,204 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemadeGestãodeAlmoxarifado
+</name>
+</assembly>
+<members>
+<member name="T:gdeproject.dbgdaDataSet.fornecedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.inventarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.listaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.posicoesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.produtoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.RentradaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.RexpedicaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.usuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.variaveisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.fornecedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.inventarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.listaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.posicoesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.produtoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.RentradaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.RexpedicaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.usuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.variaveisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.fornecedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.inventarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.listaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.posicoesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.produtoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.RentradaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.RexpedicaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.usuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet.variaveisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.fornecedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.inventarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.listaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.posicoesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.produtoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.RentradaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.RexpedicaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.usuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.variaveisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:gdeproject.dbgdaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(gdeproject.dbgdaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:gdeproject.dbgdaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(gdeproject.dbgdaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:gdeproject.dbgdaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(gdeproject.dbgdaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:gdeproject.dbgdaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:gdeproject.dbgdaDataSetTableAdapters.TableAdapterManager.UpdateAll(gdeproject.dbgdaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:gdeproject.dbgdaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:gdeproject.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:gdeproject.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:gdeproject.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

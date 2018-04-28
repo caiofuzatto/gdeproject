@@ -1,0 +1,26 @@
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\bin\Debug\Sistema de Gestão de Almoxarifado.exe.config
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\bin\Debug\dbgda.accdb
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\bin\Debug\BarcodeFont.ttf
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\bin\Debug\Sistema de Gestão de Almoxarifado.exe.manifest
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\bin\Debug\Sistema de Gestão de Almoxarifado.application
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\bin\Debug\Sistema de Gestão de Almoxarifado.exe
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\bin\Debug\Sistema de Gestão de Almoxarifado.pdb
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\bin\Debug\Sistema de Gestão de Almoxarifado.xml
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormACURACIA.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormCONTAGEM.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormEXPEDICAO.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormCADASTRO.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormCFORNECEDORES.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormCPOSICAO.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormCPRODUTOS.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormENTRADA.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormPRINCIPAL.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormLOGIN.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.FormRELATORIO.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.Resources.resources
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\gdeproject.vbproj.GenerateResource.Cache
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\Sistema de Gestão de Almoxarifado.exe.manifest
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\Sistema de Gestão de Almoxarifado.application
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\Sistema de Gestão de Almoxarifado.exe
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\Sistema de Gestão de Almoxarifado.xml
+C:\Users\ANTIVIRUS INFO\Documents\Visual Studio 2010\Projects\gdeproject\gdeproject\obj\x86\Debug\Sistema de Gestão de Almoxarifado.pdb
